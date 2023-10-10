@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.container {
+    background-color: #343a40;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.result {
+    color: white;
+    font-weight: bold;
+}
