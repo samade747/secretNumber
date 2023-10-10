@@ -6,13 +6,15 @@ body {
 }
 
 .container {
-    background-color: #343a40;
+    background-color: #000000;
     padding: 20px;
     border-radius: 10px;
+    color: white;
 }
 
 h1 {
     font-weight: bold;
+    color: white;
 }
 
 .result {
